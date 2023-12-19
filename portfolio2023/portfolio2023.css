@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9e6e6;
+} 
+
+header {
+    background-color: #272222e6;
+    color: #f4eeee;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    padding: 40px;
+}
+
+h2 {
+    color: #333;
+}
+
+project {
+    margin-bottom: 20px;
+}
+
+project img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #272222e6;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
